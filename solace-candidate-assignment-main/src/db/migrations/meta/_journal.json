@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1752007209209,
+      "tag": "0000_groovy_rhino",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752012172140,
+      "tag": "0001_even_colonel_america",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752041001998,
+      "tag": "0002_perpetual_loa",
+      "breakpoints": true
+    }
+  ]
+}
